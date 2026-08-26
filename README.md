@@ -1,6 +1,6 @@
-<img align="right" width="280" src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif">
 
 # Hey there, I'm Your Name! 👋
+<img align="right" width="280" src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif">
 
 UI/UX creator, frontend dev & CS enthusiast
 *powered by way too much coffee ☕*
