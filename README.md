@@ -1,6 +1,6 @@
 
 # Hey there, I'm Your Name! 👋
-<img align="right" width="280" src="">
+<img align="right" width="280" src="https://i.pinimg.com/originals/fd/70/8e/fd708ee2cc6b6dbda16d9a8859916384.gif">
 
 UI/UX creator, frontend dev & CS enthusiast
 *powered by way too much coffee ☕*
