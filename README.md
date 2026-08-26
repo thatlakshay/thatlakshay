@@ -2,11 +2,9 @@
 # Hey there, I'm Your Name! 👋
 <img align="right" width="280" src="https://i.pinimg.com/originals/fd/70/8e/fd708ee2cc6b6dbda16d9a8859916384.gif">
 
-UI/UX creator, frontend dev & CS enthusiast
-*powered by way too much coffee ☕*
+I'm a developer who likes building random ideas, experimenting with new technologies, and occasionally figuring out why something broke.
 
-Music runs my life, if you catch me without headphones, send help 🎧
-Sleep is sanity. No cap. 😴💯
+I mainly work with **JavaScript, Python, HTML & CSS**, with a growing interest in AI and experimental projects.
 
 <br clear="right"/>
 
