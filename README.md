@@ -34,4 +34,4 @@ I mainly work with **JavaScript, Python, HTML & CSS**, with a growing interest i
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-### Activity
+### 🎯 Activity Status
