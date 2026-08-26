@@ -8,6 +8,8 @@ I mainly work with **JavaScript, Python, HTML & CSS**, with a growing interest i
 
 > Build it. Break it. Fix it. Repeat.
 
+<br>
+
 ## About Me
 
 - Developer & student
