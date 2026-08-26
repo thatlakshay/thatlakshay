@@ -6,6 +6,8 @@ I'm a developer who likes building random ideas, experimenting with new technolo
 
 I mainly work with **JavaScript, Python, HTML & CSS**, with a growing interest in AI and experimental projects.
 
+> Build it. Break it. Fix it. Repeat.
+
 <br clear="right"/>
 
 ### 📊 GitHub Stats
