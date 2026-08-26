@@ -8,8 +8,6 @@ UI/UX creator, frontend dev & CS enthusiast
 Music runs my life, if you catch me without headphones, send help 🎧
 Sleep is sanity. No cap. 😴💯
 
-![Visitors](https://komarev.com/ghpvc/?username=yourusername&label=visitors&color=0e75b6&style=flat-square)
-
 <br clear="right"/>
 
 ### 📊 GitHub Stats
