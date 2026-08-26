@@ -1,6 +1,6 @@
 
 # Hey there, I'm Your Name! 👋
-<img align="right" width="280" src="https://giphy.com/gifs/gifart-bsod-blue-screen-of-death-EXRpWBOnVUR20KpFdM">
+<img align="right" width="280" src="">
 
 UI/UX creator, frontend dev & CS enthusiast
 *powered by way too much coffee ☕*
