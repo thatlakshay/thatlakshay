@@ -1,4 +1,4 @@
-<img align="right" alt="Coding cat gif" width="280" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89217a.gif">
+<img align="right" width="280" src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif">
 
 # Hey there, I'm Your Name! 👋
 
