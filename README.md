@@ -8,11 +8,14 @@ I mainly work with **JavaScript, Python, HTML & CSS**, with a growing interest i
 
 > Build it. Break it. Fix it. Repeat.
 
+## About Me
 
+- Developer & student
+- Interested in AI and web development
+- Currently experimenting with different projects
+- I like making things that are actually fun to use
 
-### 📊 GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)](https://github.com/yourusername)
+---
 
 ### 🛠️ Tech Stack
 
