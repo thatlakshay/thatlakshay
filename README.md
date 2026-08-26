@@ -1,5 +1,5 @@
 # Hey, I'm Lakshay! 👋
-<img align="right" width="300" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU3c29saDNtOWUxMGYzMDNnMWJ6Y3d2cGl4d3h0MGJ1Mnd1eGNmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S862lEdBAnoeHXuLA0/giphy.gif)">
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 I'm a developer who enjoys turning ideas into small projects and experimenting with different technologies. I mostly work with JavaScript, Python, HTML and CSS, while exploring areas like AI, automation and web development.
 
